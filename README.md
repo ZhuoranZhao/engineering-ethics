@@ -1,10 +1,12 @@
 # 工程伦理（Engineering Ethics）
 浙江大学计算机科学与技术学院
+
 2023年秋季
 
 ## 教学团队
 
 [朱  强](https://person.zju.edu.cn/zhuq?ivk_sa=1025922p) <zhuq@zju.edu.cn>
+
 孔  鸣 <zjukongming@zju.edu.cn> 
 
 ## 课程简介
@@ -150,6 +152,9 @@ ChatGPT是OpenAI于2022年11月基于GPT-3.5开发的一款大型语言模型，
 ## 教学助理
 
 黄  靖
+
 <huangjin9@zju.edu.cn> 
+
 西溪校区教学楼主楼333 
+
 <img src="dd.jpg" alt="这是一张图片" width="200" height="200">
