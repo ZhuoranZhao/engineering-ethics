@@ -27,7 +27,7 @@ ChatGPT是OpenAI于2022年11月基于GPT-3.5开发的一款大型语言模型，
 <tbody>
   <tr>
     <td rowspan="2">1</td>
-    <td rowspan="2">9/18</td>
+    <td rowspan="2">9/19</td>
     <td>1</td>
     <td>朱强</td>
     <td>大模型的发展和伦理挑战</td>
@@ -39,7 +39,7 @@ ChatGPT是OpenAI于2022年11月基于GPT-3.5开发的一款大型语言模型，
   </tr>
   <tr>
     <td rowspan="2">2</td>
-    <td rowspan="2">10/10</td>
+    <td rowspan="2">9/26</td>
     <td>1</td>
     <td>孔鸣</td>
     <td>工程伦理基本概念</td>
@@ -63,7 +63,7 @@ ChatGPT是OpenAI于2022年11月基于GPT-3.5开发的一款大型语言模型，
   </tr>
   <tr>
     <td rowspan="2">4</td>
-    <td rowspan="2">10/10</td>
+    <td rowspan="2">10/17</td>
     <td>1</td>
     <td>朱强</td>
     <td>Pending……</td>
@@ -75,7 +75,7 @@ ChatGPT是OpenAI于2022年11月基于GPT-3.5开发的一款大型语言模型，
   </tr>
   <tr>
     <td rowspan="2">5</td>
-    <td rowspan="2">10/10</td>
+    <td rowspan="2">10/24</td>
     <td>1</td>
     <td>朱强</td>
     <td>Pending……</td>
@@ -87,7 +87,7 @@ ChatGPT是OpenAI于2022年11月基于GPT-3.5开发的一款大型语言模型，
   </tr>
   <tr>
     <td rowspan="2">6</td>
-    <td rowspan="2">10/10</td>
+    <td rowspan="2">10/31</td>
     <td>1</td>
     <td>朱强</td>
     <td>Pending……</td>
@@ -99,7 +99,7 @@ ChatGPT是OpenAI于2022年11月基于GPT-3.5开发的一款大型语言模型，
   </tr>
   <tr>
     <td rowspan="2">7</td>
-    <td rowspan="2">10/10</td>
+    <td rowspan="2">11/7</td>
     <td>1</td>
     <td></td>
     <td>Topic Debate</td>
@@ -111,7 +111,7 @@ ChatGPT是OpenAI于2022年11月基于GPT-3.5开发的一款大型语言模型，
   </tr>
   <tr>
     <td rowspan="2">8</td>
-    <td rowspan="2">10/10</td>
+    <td rowspan="2">11/14</td>
     <td>1</td>
     <td>黄靖</td>
     <td>期末考试</td>
