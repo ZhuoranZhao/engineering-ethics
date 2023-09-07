@@ -148,6 +148,7 @@ ChatGPT是OpenAI于2022年11月基于GPT-3.5开发的一款大型语言模型，
 
 ## 课程资源
 [GitHub](https://github.com/huangjinghuangjing/engineering-ethics.github.io/tree/main)
+
 [课程设计](https://alidocs.dingtalk.com/i/p/yr9xmy7eAMQzEOejRPG2ll1WBEB6rXBp)
 
 ## 教学助理
