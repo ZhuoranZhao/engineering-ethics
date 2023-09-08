@@ -8,7 +8,18 @@
 孔  鸣 <zjukongming@zju.edu.cn> 
 黄  靖 <huangjin9@zju.edu.cn>  西溪校区教学楼主楼333 
 <img src="dd.jpg" alt="这是一张图片" width="200" height="200"> -->
+<img src="resource/zhuq.jpg" width="200" height="250">
 
+授课老师：[朱  强](https://person.zju.edu.cn/zhuq?ivk_sa=1025922p)
+邮箱地址：<zhuq@zju.edu.cn>
+
+授课老师：孔  鸣
+邮箱地址：<zjukongming@zju.edu.cn> 
+
+<img src="resource/hj.jpg" width="200" height="250">
+
+教学助理：黄  靖
+邮箱地址：<huangjin9@zju.edu.cn>
 
 ## 课程简介
 ChatGPT是OpenAI于2022年11月基于GPT-3.5开发的一款大型语言模型，它是第一个通过图灵测试的聊天机器人，能够真正像人类一样聊天交流。它的出现激发了人工智能领域对大模型研究的浓厚兴趣，吸引了众多国内外的科研机构和企业投入巨大的资源和人力，争相打造更大、更强、更通用的预训练模型。然而，ChatGPT等大模型也不是没有风险，它们可能引发真实性、偏见、隐私和环境等方面的伦理挑战。本课程旨在通过深入分析和讲解近年来的AI伦理案例，帮助学生掌握伦理问题分析的基本方法和技巧，提高工程伦理决策的能力和水平，培养未来的AI工程师及从业者在大模型时代的伦理意识和责任感，促进AI对人类福祉的贡献。
