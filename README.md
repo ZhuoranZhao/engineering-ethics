@@ -154,5 +154,4 @@ ChatGPT是OpenAI于2022年11月基于GPT-3.5开发的一款大型语言模型，
 
 黄  靖
 <huangjin9@zju.edu.cn> 
-西溪校区教学楼主楼333 
-<img src="dd.jpg" alt="这是一张图片" width="200" height="200">
+西溪校区教学楼主楼333
