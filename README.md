@@ -11,14 +11,17 @@
 <img src="resource/zhuq.jpg" width="200" height="250">
 
 授课老师：[朱  强](https://person.zju.edu.cn/zhuq?ivk_sa=1025922p)
+
 邮箱地址：<zhuq@zju.edu.cn>
 
 授课老师：孔  鸣
+
 邮箱地址：<zjukongming@zju.edu.cn> 
 
 <img src="resource/hj.jpg" width="200" height="250">
 
 教学助理：黄  靖
+
 邮箱地址：<huangjin9@zju.edu.cn>
 
 ## 课程简介
@@ -154,15 +157,3 @@ ChatGPT是OpenAI于2022年11月基于GPT-3.5开发的一款大型语言模型，
 - 40% 课程设计
 
 - 40% 期末考试成绩
-## 参考书目
-
-《工程伦理》丛杭青
-
-## 课程资源
-[GitHub](https://github.com/huangjinghuangjing/engineering-ethics.github.io/tree/main)
-
-## 教学助理
-
-黄  靖
-<huangjin9@zju.edu.cn> 
-西溪校区教学楼主楼333
