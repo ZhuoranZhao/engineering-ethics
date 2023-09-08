@@ -10,18 +10,15 @@
 <img src="dd.jpg" alt="这是一张图片" width="200" height="200"> -->
 <img src="resource/zhuq.jpg" width="200" height="250">
 
-授课老师：[朱  强](https://person.zju.edu.cn/zhuq?ivk_sa=1025922p)
-
+授课老师：[朱  强](https://person.zju.edu.cn/zhuq?ivk_sa=1025922p)  
 邮箱地址：<zhuq@zju.edu.cn>
 
-授课老师：孔  鸣
-
+授课老师：孔  鸣  
 邮箱地址：<zjukongming@zju.edu.cn> 
 
 <img src="resource/hj.jpg" width="200" height="250">
 
-教学助理：黄  靖
-
+教学助理：黄  靖  
 邮箱地址：<huangjin9@zju.edu.cn>
 
 ## 课程简介
