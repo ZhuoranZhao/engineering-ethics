@@ -1,6 +1,6 @@
-<p align="center"><font size="10">工程伦理（Engineering Ethics）</font></p>
+<!-- <p align="center"><font size="10">工程伦理（Engineering Ethics）</font></p>
 <p align="center"><font size="5">2023年秋季</font></p>
-<p align="center"><font size="5">周二11-14节 玉泉曹光彪西楼-202</font></p>
+<p align="center"><font size="5">周二11-14节 玉泉曹光彪西楼-202</font></p> -->
 
 ---
 
