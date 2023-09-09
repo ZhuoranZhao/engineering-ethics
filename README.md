@@ -6,19 +6,21 @@
 
 ## 教学团队
 
-<img src="resource/zhuq.jpg" width="200" height="250">
+<img src="resource/zhuq.jpg" width="180" height="250">
 
 授课老师：[朱  强](https://person.zju.edu.cn/zhuq?ivk_sa=1025922p)  
 所在单位：计算机科学与技术学院  
 邮箱地址：<zhuq@zju.edu.cn>  
 办公地址：浙江大学玉泉校区科工楼D105
 
+<img src="resource/km.jpg" width="180" height="250">
+
 授课老师：孔  鸣  
 所在单位：计算机科学与技术学院  
 邮箱地址：<zjukongming@zju.edu.cn>  
 办公地址：
 
-<img src="resource/hj.jpg" width="200" height="250">
+<img src="resource/hj.jpg" width="180" height="250">
 
 教学助理：黄  靖  
 所在单位：计算机科学与技术学院  
@@ -72,60 +74,60 @@ ChatGPT是OpenAI于2022年11月基于GPT-3.5开发的一款大型语言模型，
     <td rowspan="2">10/10</td>
     <td>1</td>
     <td>18:50—20:20</td>
-    <td>论文研读 <a href="https://alidocs.dingtalk.com/i/p/yr9xmy7eAMQzEOejRPG2llnkvENPvXBp">[Paper List]</a></td>
+    <td>论文研读展示 </td>
   </tr>
   <tr>
     <td>2</td>
     <td>20:30—22:00</td>
-    <td>论文研读 <a href="https://alidocs.dingtalk.com/i/p/yr9xmy7eAMQzEOejRPG2llnkvENPvXBp">[Paper List]</a></td>
+    <td>论文研读展示 </td>
   </tr>
   <tr>
     <td rowspan="2">4</td>
     <td rowspan="2">10/17</td>
     <td>1</td>
     <td>18:50—20:20</td>
-    <td>Pending…… <a href="">[slide]</a></td>
+    <td>Pending <a href="">[slide]</a></td>
   </tr>
   <tr>
     <td>2</td>
     <td>20:30—22:00</td>
-    <td>论文研读 <a href="https://alidocs.dingtalk.com/i/p/yr9xmy7eAMQzEOejRPG2llnkvENPvXBp">[Paper List]</a></td>
+    <td>论文研读展示 </td>
   </tr>
   <tr>
     <td rowspan="2">5</td>
     <td rowspan="2">10/24</td>
     <td>1</td>
     <td>18:50—20:20</td>
-    <td>Pending…… <a href="">[slide]</a></td>
+    <td>Pending <a href="">[slide]</a></td>
   </tr>
   <tr>
     <td>2</td>
     <td>20:30—22:00</td>
-    <td>研究项目 <a href="">[Topics]</a></td>
+    <td>研究项目展示 </td>
   </tr>
   <tr>
     <td rowspan="2">6</td>
     <td rowspan="2">10/31</td>
     <td>1</td>
     <td>18:50—20:20</td>
-    <td>Pending…… <a href="">[slide]</a></td>
+    <td>Pending <a href="">[slide]</a></td>
   </tr>
   <tr>
     <td>2</td>
     <td>20:30—22:00</td>
-    <td>研究项目 <a href="">[Topics]</a></td>
+    <td>研究项目展示 </td>
   </tr>
   <tr>
     <td rowspan="2">7</td>
     <td rowspan="2">11/7</td>
     <td>1</td>
     <td>18:50—20:20</td>
-    <td>话题辩论 <a href="">[Topics]</a></td>
+    <td>话题辩论 </td>
   </tr>
   <tr>
     <td>2</td>
     <td>20:30—22:00</td>
-    <td>话题辩论 <a href="">[Topics]</a></td>
+    <td>话题辩论 </td>
   </tr>
   <tr>
     <td rowspan="2">8</td>
@@ -146,11 +148,11 @@ ChatGPT是OpenAI于2022年11月基于GPT-3.5开发的一款大型语言模型，
 
 课程设计以分组的形式进行，课程设计的展示形式包括论文研读，研究项目和话题辩论。
 
-**论文研读：** 每组2人，共开放15组。选择一篇工程伦理相关的论文深入研读，然后用10-15分钟的时间在课堂上向全班展示论文的内容，观点和自己的见解。选择论文研读的小组通过抽签决定展示的顺序，并在第2—4周的课堂上进行展示，每周将有5个小组进行展示。
+- **论文研读：** 每组2人，共开放15组。选择一篇工程伦理相关的论文深入研读，然后用10-15分钟的时间在课堂上向全班展示论文的内容，观点和自己的见解。[论文列表](https://alidocs.dingtalk.com/i/p/yr9xmy7eAMQzEOejRPG2llnkvENPvXBp)
 
-**研究项目：** 每组4～5人，针对一个工程伦理相关的主题，设计并实现一个工程项目，并在课堂上用10分钟围绕项目的伦理考虑展示项目的细节（例如训练一个人脸检测的模型，展示如何解决模型对于不同肤色人类的歧视）。选择Research Project的小组通过抽签决定展示的顺序，并在第5—6周的课堂上进行展示，每周将有6个小组进行展示。
+- **研究项目：** 每组4～5人，针对一个工程伦理相关的主题，设计并实现一个工程项目，并在课堂上用10分钟围绕项目的伦理考虑展示项目的细节（例如训练一个人脸检测的模型，展示如何解决模型对于不同肤色人类的歧视）。
 
-**话题辩论** 每组4～5人，从给定的话题中选取一个，并随机分配正反方立场，准备并进行一场20分钟的辩论，展示自己的论据和观点。
+- **话题辩论** 每组4～5人，从给定的话题中选取一个，并随机分配正反方立场，准备并进行一场20分钟的辩论，展示自己的论据和观点。[辩论题目](https://alidocs.dingtalk.com/i/p/yr9xmy7eAMQzEOejRPG2llo9rVv1PXBp)
 
 
 ## 考核方式
@@ -163,8 +165,8 @@ ChatGPT是OpenAI于2022年11月基于GPT-3.5开发的一款大型语言模型，
 
 ## 参考书目
 
-丛杭青主编，工程伦理. 杭州：浙江大学出版社.  
-李正风，丛杭青，王前等. 工程伦理(第2版). 北京:清华大学出版社，2019.[美]哈里斯等. 工程伦理:概念与案例(第三版).  
-丛杭青等译. 北京:北京理工大学出版社，2006.  
-Mike W. Martin, Roland Schinzingger. Ethics in Engineering(Fourth Edition), McGraw Hill, 2005.  
-Charles B. Fleddermann, Engineering Ethics, Prentice Hall, 1999.
+- 丛杭青主编，工程伦理. 杭州：浙江大学出版社.  
+- 李正风，丛杭青，王前等. 工程伦理(第2版). 北京:清华大学出版社，2019.[美]哈里斯等. 工程伦理:概念与案例(第三版).  
+- 丛杭青等译. 北京:北京理工大学出版社，2006.  
+- Mike W. Martin, Roland Schinzingger. Ethics in Engineering(Fourth Edition), McGraw Hill, 2005.  
+- Charles B. Fleddermann, Engineering Ethics, Prentice Hall, 1999.
