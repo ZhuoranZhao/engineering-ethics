@@ -50,31 +50,31 @@
     <td rowspan="2">9/18</td>
     <td>1</td>
     <td>18:50—20:20</td>
-    <td>大模型的发展和伦理挑战 <a href="">[slide]</a></td>
+    <td>大模型的发展和伦理挑战 <a href="">[slides]</a></td>
   </tr>
   <tr>
     <td>2</td>
     <td>20:30—22:00</td>
-    <td>课程考核标准介绍 <a href="">[slide]</a></td>
+    <td>课程考核标准介绍 <a href="">[slides]</a></td>
   </tr>
   <tr>
     <td rowspan="2">2</td>
     <td rowspan="2">9/26</td>
     <td>1</td>
     <td>18:50—20:20</td>
-    <td>工程伦理基本概念（一） <a href="">[slide]</a></td>
+    <td>工程伦理基本概念（一） <a href="">[slides]</a></td>
   </tr>
   <tr>
     <td>2</td>
     <td>20:30—22:00</td>
-    <td>工程伦理基本概念（二） <a href="">[slide]</a></td>
+    <td>工程伦理基本概念（二） <a href="">[slides]</a></td>
   </tr>
   <tr>
     <td rowspan="2">3</td>
     <td rowspan="2">10/10</td>
     <td>1</td>
     <td>18:50—20:20</td>
-    <td>视频安防场景的工程伦理 <a href="">[slide]</a></td>
+    <td>视频安防场景的工程伦理 <a href="">[slides]</a></td>
   </tr>
   <tr>
     <td>2</td>
@@ -86,7 +86,7 @@
     <td rowspan="2">10/17</td>
     <td>1</td>
     <td>18:50—20:20</td>
-    <td>Pending <a href="">[slide]</a></td>
+    <td>Pending <a href="">[slides]</a></td>
   </tr>
   <tr>
     <td>2</td>
@@ -98,7 +98,7 @@
     <td rowspan="2">10/24</td>
     <td>1</td>
     <td>18:50—20:20</td>
-    <td>Pending <a href="">[slide]</a></td>
+    <td>Pending <a href="">[slides]</a></td>
   </tr>
   <tr>
     <td>2</td>
@@ -110,7 +110,7 @@
     <td rowspan="2">10/31</td>
     <td>1</td>
     <td>18:50—20:20</td>
-    <td>Pending <a href="">[slide]</a></td>
+    <td>Pending <a href="">[slides]</a></td>
   </tr>
   <tr>
     <td>2</td>
