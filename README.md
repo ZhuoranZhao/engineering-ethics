@@ -2,6 +2,8 @@
 <p align="center"><font size="5">浙江大学计算机科学与技术学院</font></p>
 <p align="center"><font size="5">2023年秋季</font></p>
 
+---
+
 ## 教学团队
 
 <!-- [朱  强](https://person.zju.edu.cn/zhuq?ivk_sa=1025922p) <zhuq@zju.edu.cn>
@@ -21,6 +23,8 @@
 教学助理：黄  靖  
 邮箱地址：<huangjin9@zju.edu.cn>
 
+---
+
 ## 课程简介
 ChatGPT是OpenAI于2022年11月基于GPT-3.5开发的一款大型语言模型，它是第一个通过图灵测试的聊天机器人，能够真正像人类一样聊天交流。它的出现激发了人工智能领域对大模型研究的浓厚兴趣，吸引了众多国内外的科研机构和企业投入巨大的资源和人力，争相打造更大、更强、更通用的预训练模型。然而，ChatGPT等大模型也不是没有风险，它们可能引发真实性、偏见、隐私和环境等方面的伦理挑战。本课程旨在通过深入分析和讲解近年来的AI伦理案例，帮助学生掌握伦理问题分析的基本方法和技巧，提高工程伦理决策的能力和水平，培养未来的AI工程师及从业者在大模型时代的伦理意识和责任感，促进AI对人类福祉的贡献。
 
@@ -29,44 +33,44 @@ ChatGPT是OpenAI于2022年11月基于GPT-3.5开发的一款大型语言模型，
 <table>
 <thead>
   <tr>
-    <th>Week</th>
-    <th>Date</th>
-    <th>Session</th>
-    <th>Presenter</th>
-    <th>Theme</th>
+    <th>周次</th>
+    <th>日期</th>
+    <th>节次</th>
+    <th>上课时间</th>
+    <th>内容</th>
   </tr>
 </thead>
 <tbody>
   <tr>
     <td rowspan="2">1</td>
-    <td rowspan="2">9/19</td>
+    <td rowspan="2">9/18</td>
     <td>1</td>
-    <td>朱强</td>
-    <td>Introduction</td>
+    <td></td>
+    <td>大模型的发展和伦理挑战</td>
   </tr>
   <tr>
     <td>2</td>
-    <td>黄靖</td>
+    <td></td>
     <td>课程考核标准介绍</td>
   </tr>
   <tr>
     <td rowspan="2">2</td>
     <td rowspan="2">9/26</td>
     <td>1</td>
-    <td>孔鸣</td>
+    <td></td>
     <td>工程伦理基本概念</td>
   </tr>
   <tr>
     <td>2</td>
     <td></td>
-    <td>Paper Discussion</td>
+    <td>视频安防下的工程伦理</td>
   </tr>
   <tr>
     <td rowspan="2">3</td>
     <td rowspan="2">10/10</td>
     <td>1</td>
-    <td>孔鸣</td>
-    <td>海康的工程伦理情景</td>
+    <td></td>
+    <td>Paper Discussion</td>
   </tr>
   <tr>
     <td>2</td>
@@ -77,7 +81,7 @@ ChatGPT是OpenAI于2022年11月基于GPT-3.5开发的一款大型语言模型，
     <td rowspan="2">4</td>
     <td rowspan="2">10/17</td>
     <td>1</td>
-    <td>朱强</td>
+    <td></td>
     <td>Pending……</td>
   </tr>
   <tr>
@@ -89,7 +93,7 @@ ChatGPT是OpenAI于2022年11月基于GPT-3.5开发的一款大型语言模型，
     <td rowspan="2">5</td>
     <td rowspan="2">10/24</td>
     <td>1</td>
-    <td>朱强</td>
+    <td></td>
     <td>Pending……</td>
   </tr>
   <tr>
@@ -101,7 +105,7 @@ ChatGPT是OpenAI于2022年11月基于GPT-3.5开发的一款大型语言模型，
     <td rowspan="2">6</td>
     <td rowspan="2">10/31</td>
     <td>1</td>
-    <td>朱强</td>
+    <td></td>
     <td>Pending……</td>
   </tr>
   <tr>
@@ -125,18 +129,18 @@ ChatGPT是OpenAI于2022年11月基于GPT-3.5开发的一款大型语言模型，
     <td rowspan="2">8</td>
     <td rowspan="2">11/14</td>
     <td>1</td>
-    <td>黄靖</td>
+    <td></td>
     <td>期末考试</td>
   </tr>
   <tr>
     <td>2</td>
-    <td>黄靖</td>
+    <td></td>
     <td>期末考试</td>
   </tr>
 </tbody>
 </table>
 
-## 课程设计
+## 项目设计
 
 课程设计以分组的形式进行，课程设计的展示形式包括Paper Discussion，Research Project和Topic Debate。
 
@@ -154,3 +158,9 @@ ChatGPT是OpenAI于2022年11月基于GPT-3.5开发的一款大型语言模型，
 - 40% 课程设计
 
 - 40% 期末考试成绩
+
+## 参考书目
+
+《工程伦理》丛杭青 浙江大学出版社
+
+
