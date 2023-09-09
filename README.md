@@ -1,7 +1,6 @@
 <!-- <p align="center"><font size="10">工程伦理（Engineering Ethics）</font></p>
 <p align="center"><font size="5">2023年秋季</font></p>
 <p align="center"><font size="5">周二11-14节 玉泉曹光彪西楼-202</font></p> -->
-
 ---
 
 ## 教学团队
@@ -151,7 +150,7 @@
 
 - **论文研读：** 每组2人，共开放15组。选择一篇工程伦理相关的论文深入研读，然后用10-15分钟的时间在课堂上向全班展示论文的内容，观点和自己的见解。[论文列表](https://alidocs.dingtalk.com/i/p/yr9xmy7eAMQzEOejRPG2llnkvENPvXBp)
 
-- **研究项目：** 每组4～5人，针对一个工程伦理相关的主题，设计并实现一个工程项目，并在课堂上用10分钟围绕项目的伦理考虑展示项目的细节（例如训练一个人脸检测的模型，展示如何解决模型对于不同肤色人类的歧视）。
+- **研究项目：** 每组4～5人，针对一个工程伦理相关的主题，设计并实现一个工程项目，并在课堂上用10分钟围绕项目的伦理考虑展示项目的细节。[项目示例](https://alidocs.dingtalk.com/i/p/yr9xmy7eAMQzEOejRPG2lloj1n0yEXBp)
 
 - **话题辩论** 每组4～5人，从给定的话题中选取一个，并随机分配正反方立场，准备并进行一场20分钟的辩论，展示自己的论据和观点。[辩论题目](https://alidocs.dingtalk.com/i/p/yr9xmy7eAMQzEOejRPG2llo9rVv1PXBp)
 
