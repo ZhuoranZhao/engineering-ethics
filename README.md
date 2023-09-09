@@ -1,27 +1,29 @@
 <p align="center"><font size="10">工程伦理（Engineering Ethics）</font></p>
-<p align="center"><font size="5">浙江大学计算机科学与技术学院</font></p>
 <p align="center"><font size="5">2023年秋季</font></p>
+<p align="center"><font size="5">周二11-14节 玉泉曹光彪西楼-202</font></p>
 
 ---
 
 ## 教学团队
 
-<!-- [朱  强](https://person.zju.edu.cn/zhuq?ivk_sa=1025922p) <zhuq@zju.edu.cn>
-孔  鸣 <zjukongming@zju.edu.cn> 
-黄  靖 <huangjin9@zju.edu.cn>  西溪校区教学楼主楼333 
-<img src="dd.jpg" alt="这是一张图片" width="200" height="200"> -->
 <img src="resource/zhuq.jpg" width="200" height="250">
 
 授课老师：[朱  强](https://person.zju.edu.cn/zhuq?ivk_sa=1025922p)  
-邮箱地址：<zhuq@zju.edu.cn>
+所在单位：计算机科学与技术学院  
+邮箱地址：<zhuq@zju.edu.cn>  
+办公地址：浙江大学玉泉校区科工楼D105
 
 授课老师：孔  鸣  
-邮箱地址：<zjukongming@zju.edu.cn> 
+所在单位：计算机科学与技术学院  
+邮箱地址：<zjukongming@zju.edu.cn>  
+办公地址：
 
 <img src="resource/hj.jpg" width="200" height="250">
 
 教学助理：黄  靖  
-邮箱地址：<huangjin9@zju.edu.cn>
+所在单位：计算机科学与技术学院  
+邮箱地址：<huangjin9@zju.edu.cn>  
+办公地址：浙江大学西溪校区教学楼主楼333
 
 ---
 
