@@ -69,7 +69,7 @@
     <td rowspan="2">10/10</td>
     <td>18:50—20:20</td>
     <td>朱强</td>
-    <td>隐私保护前沿技术：联邦学习和差异隐私 <a href="#tips">[slides]</a></td>
+    <td>隐私保护前沿技术：联邦学习和差分隐私 <a href="#tips">[slides]</a></td>
   </tr>
   <tr>
     <td>20:30—22:00</td>
