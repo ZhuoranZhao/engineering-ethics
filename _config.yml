@@ -1,3 +1,8 @@
 theme: jekyll-theme-cayman
 title: 工程伦理（Engineering Ethics）
-description: 时间：周二11-14节（18:50 – 22:00）\n 地点：浙江大学玉泉校区曹光彪西楼-202
+description: 时间：周二11-14节（18:50 – 22:00）  \n
+地点：浙江大学玉泉校区曹光彪西楼-202
+
+kramdown:
+  input: GFM
+  hard_wrap: true
