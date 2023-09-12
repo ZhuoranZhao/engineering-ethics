@@ -45,7 +45,7 @@
     <td rowspan="2">9/18</td>
     <td>18:50—20:20</td>
     <td>朱强</td>
-    <td>大模型技术及伦理挑战</td>
+    <td>大模型技术及伦理挑战 <a href="#tips">[slides]</a></td>
   </tr>
   <tr>
     <td>20:30—22:00</td>
@@ -57,19 +57,19 @@
     <td rowspan="2">9/26</td>
     <td>18:50—20:20</td>
     <td>孔鸣</td>
-    <td>工程伦理基本概念（上）</td>
+    <td>工程伦理基本概念（上）<a href="#tips">[slides]</a></td>
   </tr>
   <tr>
     <td>20:30—22:00</td>
     <td>孔鸣</td>
-    <td>工程伦理基本概念（下）</td>
+    <td>工程伦理基本概念（下）<a href="#tips">[slides]</a></td>
   </tr>
   <tr>
     <td rowspan="2">3</td>
     <td rowspan="2">10/10</td>
     <td>18:50—20:20</td>
     <td>朱强</td>
-    <td>隐私保护前沿技术：联邦学习和差异隐私</td>
+    <td>隐私保护前沿技术：联邦学习和差异隐私 <a href="#tips">[slides]</a></td>
   </tr>
   <tr>
     <td>20:30—22:00</td>
@@ -93,7 +93,7 @@
     <td rowspan="2">10/24</td>
     <td>18:50—20:20</td>
     <td>—</td>
-    <td>人工智能头部企业专家报告（待邀请）</td>
+    <td>人工智能头部企业专家报告（待邀请）<a href="#tips">[slides]</a></td>
   </tr>
   <tr>
     <td>20:30—22:00</td>
@@ -105,7 +105,7 @@
     <td rowspan="2">10/31</td>
     <td>18:50—20:20</td>
     <td>朱强</td>
-    <td>人工智能中的偏见和歧视</td>
+    <td>人工智能中的偏见和歧视：可解释AI <a href="#tips">[slides]</a></td>
   </tr>
   <tr>
     <td>20:30—22:00</td>
