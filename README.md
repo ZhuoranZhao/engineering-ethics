@@ -151,9 +151,9 @@
 
 ## 项目设计
 
-课程项目以分组的形式进行，项目类别包括论文研读，主题调研和话题辩论。[组队&选题]()
+课程项目以分组的形式进行，项目类别包括论文研读，主题调研和话题辩论。[组队&选题](https://alidocs.dingtalk.com/i/nodes/ydxXB52LJq7loyGnUzBAOppMWqjMp697?utm_scene=person_space)
 
-- **论文研读：** 每组2人，共开放15组。选择一篇工程伦理相关的论文深入研读，然后用15分钟（10分钟PPT展示 + 5分钟问答）时间在课堂上向全班展示论文的内容，观点和自己的见解。[论文列表](https://alidocs.dingtalk.com/i/p/yr9xmy7eAMQzEOejRPG2llnkvENPvXBp)
+- **论文研读：** 每组2人，共开放16组。选择一篇工程伦理相关的论文深入研读，然后用15分钟（10分钟PPT展示 + 5分钟问答）时间在课堂上向全班展示论文的内容，观点和自己的见解。[论文列表](https://alidocs.dingtalk.com/i/p/yr9xmy7eAMQzEOejRPG2llnkvENPvXBp)
 
 - **主题调研：** 每组4～5人，共开放12组。自行选择一个工程伦理相关的主题进行调研，并在课堂上用15分钟进行展示（需要具备相对落地的形式，比如问卷调查、视频制作、工具开发等）。[项目示例](https://alidocs.dingtalk.com/i/p/yr9xmy7eAMQzEOejRPG2lloj1n0yEXBp)
 
