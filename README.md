@@ -153,11 +153,11 @@
 
 课程项目以分组的形式进行，项目类别包括论文研读，主题调研和话题辩论。
 
-- **论文研读：** 每组2人，共开放16组。选择一篇工程伦理相关的论文深入研读，然后用15分钟（10分钟PPT展示 + 5分钟问答）时间在课堂上向全班展示论文的内容，观点和自己的见解。[组队&选题](https://alidocs.dingtalk.com/i/nodes/o14dA3GK8g5No0rjhxNaRZAmV9ekBD76?utm_scene=person_space)[论文列表]()
+- **论文研读：** 每组2人，共开放16组。选择一篇工程伦理相关的论文深入研读，然后用15分钟（10分钟PPT展示 + 5分钟问答）时间在课堂上向全班展示论文的内容，观点和自己的见解。[组队&选题](https://alidocs.dingtalk.com/i/nodes/o14dA3GK8g5No0rjhxNaRZAmV9ekBD76?utm_scene=person_space) [论文列表]()
 
-- **主题调研：** 每组4～5人，共开放12组。自行选择一个工程伦理相关的主题进行调研，并在课堂上用15分钟进行展示（需要具备相对落地的形式，比如问卷调查、视频制作、工具开发等）。[组队&选题](https://alidocs.dingtalk.com/i/nodes/lyQod3RxJK3mjxPGtE5brO23Jkb4Mw9r?utm_scene=person_space)[参考主题]()
+- **主题调研：** 每组4～5人，共开放12组。自行选择一个工程伦理相关的主题进行调研，并在课堂上用15分钟进行展示（需要具备相对落地的形式，比如问卷调查、视频制作、工具开发等）。[组队&选题](https://alidocs.dingtalk.com/i/nodes/lyQod3RxJK3mjxPGtE5brO23Jkb4Mw9r?utm_scene=person_space) [参考主题]()
 
-- **话题辩论：** 每组8～10人，每组分A，B两队，共开放8组。从给定的话题中选取一个，并随机分配正反方立场，准备并进行一场20分钟的辩论，展示自己的论据和观点。[组队&选题](https://alidocs.dingtalk.com/i/nodes/R1zknDm0WR3eZQMatEYl4KvLVBQEx5rG?utm_scene=person_space)[辩论题目]()
+- **话题辩论：** 每组8～10人，每组分A，B两队，共开放8组。从给定的话题中选取一个，并随机分配正反方立场，准备并进行一场20分钟的辩论，展示自己的论据和观点。[组队&选题](https://alidocs.dingtalk.com/i/nodes/R1zknDm0WR3eZQMatEYl4KvLVBQEx5rG?utm_scene=person_space) [辩论题目]()
 
 
 ## 成绩评定
