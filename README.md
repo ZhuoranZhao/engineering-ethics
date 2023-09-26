@@ -55,12 +55,12 @@
     <td rowspan="2">9/18</td>
     <td>18:50—20:50</td>
     <td>朱强</td>
-    <td>人工智能技术及伦理挑战 <a href="https://alidocs.dingtalk.com/i/nodes/ydxXB52LJq7loyGnUzrvKgNqWqjMp697?utm_scene=person_space">[slides]</a></td>
+    <td>课程大纲及项目设计</td>
   </tr>
   <tr>
     <td>21:00—22:00</td>
     <td>朱强</td>
-    <td></td>
+    <td>人工智能技术及伦理挑战 <a href="https://alidocs.dingtalk.com/i/nodes/ydxXB52LJq7loyGnUzrvKgNqWqjMp697?utm_scene=person_space">[slides]</a></td>
   </tr>
   <tr>
     <td rowspan="2">2</td>
