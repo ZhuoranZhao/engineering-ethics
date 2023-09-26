@@ -159,10 +159,13 @@
 
 - **话题辩论：** 每组8～10人，每组分A，B两队，共开放8组。从给定的话题中选取一个，并随机分配正反方立场，准备并进行一场20分钟的辩论，展示自己的论据和观点。
 
+## 考勤规则
+
+- [打卡规则](https://alidocs.dingtalk.com/i/nodes/93NwLYZXWygloLKncdBXP3M5JkyEqBQm?utm_scene=person_space)
 
 ## 成绩评定
 
-- 20% [课堂考勤](https://alidocs.dingtalk.com/i/nodes/93NwLYZXWygloLKncdBXP3M5JkyEqBQm?utm_scene=person_space)
+- 20% 课堂考勤
 
 - 40% 项目设计
 
