@@ -162,7 +162,7 @@
 
 ## 成绩评定
 
-- 20% 课堂考勤 [打卡规则](https://alidocs.dingtalk.com/i/nodes/93NwLYZXWygloLKncdBXP3M5JkyEqBQm?utm_scene=person_space)
+- 20% [课堂考勤](https://alidocs.dingtalk.com/i/nodes/93NwLYZXWygloLKncdBXP3M5JkyEqBQm?utm_scene=person_space)
 
 - 40% 项目设计
 
