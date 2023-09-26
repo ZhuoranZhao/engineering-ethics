@@ -59,8 +59,8 @@
   </tr>
   <tr>
     <td>21:00—22:00</td>
-    <td>黄靖</td>
-    <td>课程大纲及项目设计</td>
+    <td>朱强</td>
+    <td></td>
   </tr>
   <tr>
     <td rowspan="2">2</td>
