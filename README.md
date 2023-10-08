@@ -78,8 +78,8 @@
     <td rowspan="2">3</td>
     <td rowspan="2">10/10</td>
     <td>18:50—20:20</td>
-    <td>朱强</td>
-    <td>人工智能的偏见和歧视 <a href="#tips">[slides]</a></td>
+    <td>孔鸣</td>
+    <td>AIGC的价值观和伦理问题 <a href="#tips">[slides]</a></td>
   </tr>
   <tr>
     <td>20:30—22:00</td>
@@ -90,8 +90,8 @@
     <td rowspan="2">4</td>
     <td rowspan="2">10/17</td>
     <td>18:50—20:20</td>
-    <td>孔鸣</td>
-    <td>AIGC的价值观和伦理问题</td>
+    <td>朱强</td>
+    <td>人工智能的偏见和歧视</td>
   </tr>
   <tr>
     <td>20:30—22:00</td>
