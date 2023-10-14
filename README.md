@@ -79,7 +79,7 @@
     <td rowspan="2">10/10</td>
     <td>18:50—20:20</td>
     <td>孔鸣</td>
-    <td>AIGC的价值观和伦理问题 <a href="#tips">[slides]</a></td>
+    <td>AIGC的价值观和伦理问题 <a href="https://alidocs.dingtalk.com/i/nodes/lyQod3RxJK3mjxPGtEwvNx3PJkb4Mw9r?utm_scene=person_space">[slides]</a></td>
   </tr>
   <tr>
     <td>20:30—22:00</td>
