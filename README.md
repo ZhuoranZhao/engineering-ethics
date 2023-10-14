@@ -67,12 +67,12 @@
     <td rowspan="2">9/26</td>
     <td>18:50—20:20</td>
     <td>孔鸣</td>
-    <td>工程伦理基本概念（上）<a href="[#tips](https://alidocs.dingtalk.com/i/nodes/EpGBa2Lm8azv5dwGsdNxrMOvWgN7R35y?utm_scene=person_space)">[slides]</a></td>
+    <td>工程伦理基本概念（上）<a href="https://alidocs.dingtalk.com/i/nodes/EpGBa2Lm8azv5dwGsdNxrMOvWgN7R35y?utm_scene=person_space">[slides]</a></td>
   </tr>
   <tr>
     <td>20:30—22:00</td>
     <td>孔鸣</td>
-    <td>工程伦理基本概念（下）<a href="[#tips](https://alidocs.dingtalk.com/i/nodes/Gl6Pm2Db8D3mKkP4tdzxKQ54JxLq0Ee4?utm_scene=person_space)">[slides]</a></td>
+    <td>工程伦理基本概念（下）<a href="https://alidocs.dingtalk.com/i/nodes/Gl6Pm2Db8D3mKkP4tdzxKQ54JxLq0Ee4?utm_scene=person_space">[slides]</a></td>
   </tr>
   <tr>
     <td rowspan="2">3</td>
