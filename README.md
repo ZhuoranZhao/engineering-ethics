@@ -90,12 +90,12 @@
     <td rowspan="2">4</td>
     <td rowspan="2">10/17</td>
     <td>18:50—20:20</td>
-    <td>—</td>
+    <td></td>
     <td>论文研读</td>
   </tr>
   <tr>
     <td>20:30—22:00</td>
-    <td></td>
+    <td>朱强</td>
     <td>人工智能的偏见和歧视：可解释AI</td>
   </tr>
   <tr>
