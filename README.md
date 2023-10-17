@@ -96,7 +96,7 @@
   <tr>
     <td>20:30—22:00</td>
     <td>朱强</td>
-    <td>人工智能的偏见和歧视：可解释AI</td>
+    <td>人工智能的偏见和歧视：可解释AI<a href="https://alidocs.dingtalk.com/i/nodes/AR4GpnMqJzMLo64Gs7oRapqNVKe0xjE3?utm_scene=person_space">[slides]</a></td>
   </tr>
   <tr>
     <td rowspan="2">5</td>
