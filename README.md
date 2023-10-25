@@ -115,7 +115,7 @@
     <td rowspan="2">10/31</td>
     <td>18:50—20:20</td>
     <td>朱强</td>
-    <td> 人工智能头部企业专家报告（待邀请） <a href="#tips">[slides]</a></td>
+    <td> 主题调研） <a href="#tips">[slides]</a></td>
   </tr>
   <tr>
     <td>20:30—22:00</td>
