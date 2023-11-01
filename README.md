@@ -136,15 +136,15 @@
   </tr>
   <tr>
     <td rowspan="2">8</td>
-    <td rowspan="2">11/14</td>
-    <td>18:50—20:20</td>
-    <td></td>
-    <td>主题调研</td>
-  </tr>
-  <tr>
-    <td>20:30—22:00</td>
+    <td rowspan="2">11/12</td>
+    <td>8:00—23:59</td>
     <td></td>
     <td>期末考试</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
 </tbody>
 </table>
