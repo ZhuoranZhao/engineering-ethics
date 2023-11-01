@@ -139,12 +139,12 @@
     <td rowspan="2">11/12</td>
     <td>8:00—23:59</td>
     <td></td>
-    <td>期末考试</td>
+    <td>期末考试（线上）</td>
   </tr>
   <tr>
+    <td>-</td>
     <td></td>
-    <td></td>
-    <td></td>
+    <td>-</td>
   </tr>
 </tbody>
 </table>
