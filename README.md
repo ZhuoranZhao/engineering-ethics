@@ -1,6 +1,6 @@
 <!-- <p align="center"><font size="10">工程伦理（Engineering Ethics）</font></p>
-<p align="center"><font size="5">2023年秋季</font></p>
-<p align="center"><font size="5">周二11-14节 玉泉曹光彪西楼-202</font></p> -->
+<p align="center"><font size="5">2024年秋季</font></p>
+<p align="center"><font size="5">周二11-14节 玉泉教7-506</font></p> -->
 ---
 
 ## 教学团队
@@ -15,9 +15,14 @@
 授课老师：孔  鸣  
 邮箱地址：<zjukongming@zju.edu.cn>
 
-<img src="resource/hj.jpg" width="180" height="250">
+<img src="resource/lt.jpg" width="180" height="250">
 
-教学助理：黄  靖  
+授课老师：梁 恬  
+邮箱地址：<zjukongming@zju.edu.cn>
+
+<img src="resource/zzr.jpg" width="180" height="250">
+
+教学助理：赵 卓 然  
 邮箱地址：<huangjin9@zju.edu.cn>
 
 ---
