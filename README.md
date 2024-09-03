@@ -1,6 +1,6 @@
 <!-- <p align="center"><font size="10">工程伦理（Engineering Ethics）</font></p>
-<p align="center"><font size="5">2023年秋季</font></p>
-<p align="center"><font size="5">周二11-14节 玉泉曹光彪西楼-202</font></p> -->
+<p align="center"><font size="5">2024年秋季</font></p>
+<p align="center"><font size="5">周二11-14节 玉泉教7-506</font></p> -->
 ---
 
 ## 教学团队
@@ -15,10 +15,15 @@
 授课老师：孔  鸣  
 邮箱地址：<zjukongming@zju.edu.cn>
 
-<img src="resource/hj.jpg" width="180" height="250">
+<img src="resource/lt.jpg" width="180" height="250">
 
-教学助理：黄  靖  
-邮箱地址：<huangjin9@zju.edu.cn>
+授课老师：梁  恬  
+邮箱地址：<liangtian2022@zju.edu.cn>
+
+<img src="resource/zzr.jpg" width="180" height="250">
+
+教学助理：赵  卓  然  
+邮箱地址：<zhuoranzhao@zju.edu.cn>
 
 ---
 
@@ -44,7 +49,6 @@
   <tr>
     <th>周次</th>
     <th>日期</th>
-    <th>时间</th>
     <th>授课</th>
     <th>内容</th>
   </tr>
@@ -52,100 +56,75 @@
 <tbody>
   <tr>
     <td rowspan="2">1</td>
-    <td rowspan="2">9/18</td>
-    <td>18:50—19:20</td>
-    <td>朱强</td>
-    <td>课程大纲及项目设计</td>
+    <td rowspan="2">9/10</td>
+    <td>孔鸣</td>
+    <td>工程伦理基本概念<a href="https://alidocs.dingtalk.com/i/nodes/EpGBa2Lm8azv5dwGsdNxrMOvWgN7R35y?utm_scene=person_space">[slides]</a></td>
   </tr>
   <tr>
-    <td>19:20—22:00</td>
-    <td>朱强</td>
-    <td>人工智能技术及伦理挑战 <a href="https://alidocs.dingtalk.com/i/nodes/ydxXB52LJq7loyGnUzrvKgNqWqjMp697?utm_scene=person_space">[slides]</a></td>
+    <td>赵卓然</td>
+    <td>课程介绍</td>
   </tr>
   <tr>
     <td rowspan="2">2</td>
-    <td rowspan="2">9/26</td>
-    <td>18:50—20:20</td>
-    <td>孔鸣</td>
-    <td>工程伦理基本概念（上）<a href="https://alidocs.dingtalk.com/i/nodes/EpGBa2Lm8azv5dwGsdNxrMOvWgN7R35y?utm_scene=person_space">[slides]</a></td>
+    <td rowspan="2">9/21</td>
+    <td>朱强</td>
+    <td>人工智能技术简史及伦理挑战</td>
   </tr>
   <tr>
-    <td>20:30—22:00</td>
-    <td>孔鸣</td>
-    <td>工程伦理基本概念（下）<a href="https://alidocs.dingtalk.com/i/nodes/Gl6Pm2Db8D3mKkP4tdzxKQ54JxLq0Ee4?utm_scene=person_space">[slides]</a></td>
+    <td>黄靖</td>
+    <td>AIGC的价值观和伦理问题</td>
   </tr>
   <tr>
     <td rowspan="2">3</td>
-    <td rowspan="2">10/10</td>
-    <td>18:50—20:20</td>
-    <td>孔鸣</td>
-    <td>AIGC的价值观和伦理问题 <a href="https://alidocs.dingtalk.com/i/nodes/lyQod3RxJK3mjxPGtEwvNx3PJkb4Mw9r?utm_scene=person_space">[slides]</a></td>
+    <td rowspan="2">9/24</td>
+    <td>朱强</td>
+    <td>人工智能的偏见与歧视：AI可解释性</td>
   </tr>
   <tr>
-    <td>20:30—22:00</td>
-    <td></td>
-    <td>论文研读</td>
+    <td>梁恬</td>
+    <td>人工智能的真实与虚幻：大模型幻觉</td>
   </tr>
   <tr>
     <td rowspan="2">4</td>
-    <td rowspan="2">10/17</td>
-    <td>18:50—20:20</td>
-    <td></td>
-    <td>论文研读</td>
+    <td rowspan="2">10/8</td>
+    <td>朱强</td>
+    <td>隐私保护技术：联邦学习和差分隐私</td>
   </tr>
   <tr>
-    <td>20:30—22:00</td>
-    <td>朱强</td>
-    <td>人工智能的偏见和歧视：可解释AI<a href="https://alidocs.dingtalk.com/i/nodes/AR4GpnMqJzMLo64Gs7oRapqNVKe0xjE3?utm_scene=person_space">[slides]</a></td>
+    <td></td>
+    <td>论文研读</td>
   </tr>
   <tr>
     <td rowspan="2">5</td>
-    <td rowspan="2">10/24</td>
-    <td>18:50—20:20</td>
-    <td>朱强</td>
-    <td> 隐私保护技术：联邦学习和差分隐私<a href="https://alidocs.dingtalk.com/i/nodes/NZQYprEoWoeroyGnCR0bNB00J1waOeDk?utm_scene=person_space">[slides]</a></td>
-  </tr>
-  <tr>
-    <td>20:30—22:00</td>
+    <td rowspan="2">10/15</td>
     <td></td>
     <td>论文研读</td>
   </tr>
   <tr>
-    <td rowspan="2">6</td>
-    <td rowspan="2">10/31</td>
-    <td>18:50—20:20</td>
     <td></td>
     <td>主题调研</td>
   </tr>
   <tr>
-    <td>20:30—22:00</td>
+    <td rowspan="2">6</td>
+    <td rowspan="2">10/22</td>
     <td></td>
     <td>主题调研</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>话题辩论</td>
   </tr>
   <tr>
     <td rowspan="2">7</td>
-    <td rowspan="2">11/7</td>
-    <td>18:50—20:20</td>
+    <td rowspan="2">10/29</td>
     <td></td>
     <td>话题辩论</td>
   </tr>
   <tr>
-    <td>20:30—22:00</td>
     <td></td>
-    <td>话题辩论</td>
+    <td>期末考试</td>
   </tr>
-  <tr>
-    <td rowspan="2">8</td>
-    <td rowspan="2">11/12</td>
-    <td>8:00—23:59</td>
-    <td></td>
-    <td>期末考试（线上）</td>
-  </tr>
-  <tr>
-    <td>-</td>
-    <td></td>
-    <td>-</td>
-  </tr>
+
 </tbody>
 </table>
 
@@ -153,11 +132,11 @@
 
 课程项目以分组的形式进行，项目类别包括论文研读，主题调研和话题辩论。[组队&选题](https://alidocs.dingtalk.com/i/nodes/14lgGw3P8vvloyGRuP97XvYx85daZ90D?utm_scene=person_space)
 
-- **论文研读：** 每组3人，共开放15组。选择一篇工程伦理相关的论文深入研读，然后用15分钟（10分钟PPT展示 + 5分钟问答）时间在课堂上向全班展示论文的内容，观点和自己的见解。
+- **论文研读：** 每组3人，共开放7组。选择一篇工程伦理相关的论文深入研读，然后用15分钟（10分钟PPT展示 + 5分钟问答）时间在课堂上向全班展示论文的内容，观点和自己的见解。
 
-- **主题调研：** 每组6人，共开放12组。自行选择一个工程伦理相关的主题进行调研，并在课堂上用15分钟进行展示（需要具备相对落地的形式，比如问卷调查、视频制作、工具开发等）。
+- **主题调研：** 每组5人，共开放9组。自行选择一个工程伦理相关的主题进行调研，并在课堂上用20分钟（15分钟PPT展示 + 5分钟问答）进行展示（需要具备相对落地的形式，比如问卷调查、视频制作、工具开发等）。
 
-- **话题辩论：** 每组12人，每组分A，B两队，每队6人，共开放8组。从给定的话题中选取一个，并随机分配正反方立场，准备并进行一场20分钟的辩论，展示自己的论据和观点。
+- **话题辩论：** 每组8人，每组分A，B两队，每队4人，共开放8组。从给定的话题中选取一个，并随机分配正反方立场，准备并进行一场30分钟的辩论，展示自己的论据和观点。
 
 ## 课堂考勤
 
@@ -167,11 +146,11 @@
 
 - 20% 课堂考勤
 
-- 40% 项目设计
+- 50% 项目设计
 
-- 40% 期末考试成绩
+- 30% 期末考试成绩
 
-- 10% 课堂参与（bonus）
+- +10% 课堂参与（bonus）
 
 ## 参考书目
 
